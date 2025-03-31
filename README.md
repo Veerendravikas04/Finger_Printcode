@@ -30,7 +30,7 @@ This project focuses on fingerprint prediction using a Convolutional Neural Netw
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/fingerprint-prediction.git
+   git clone https://github.com/Veerendravikas04/Finger_Printcode.git
    cd fingerprint-prediction
    ```
 2. Install dependencies:
